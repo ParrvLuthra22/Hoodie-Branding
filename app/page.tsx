@@ -5,31 +5,31 @@ export default function Home() {
   const hoodies = [
     {
       id: 1,
-      name: "APR Classic Black",
+      name: "GHP Classic Black",
       price: 96.87,
-      image1: "https://i.pinimg.com/736x/92/06/56/920656e03f09691d871e149b5dad8f7f.jpg",
-      image2: "https://i.pinimg.com/736x/94/d3/14/94d31436dfc73fcf93058089f69ffd96.jpg",
+      image1: "./Glory honor pain front.png",
+      image2: "./Glory honor pain.png",
     },
     {
       id: 2,
-      name: "APR Premium Gray",
+      name: "CC Premium Gray",
       price: 128.99,
-      image1: "https://i.pinimg.com/736x/92/06/56/920656e03f09691d871e149b5dad8f7f.jpg",
-      image2: "https://i.pinimg.com/736x/94/d3/14/94d31436dfc73fcf93058089f69ffd96.jpg",
+      image1: "./Hoodie1.png",
+      image2: "CCBACK.png",
     },
     {
       id: 3,
-      name: "APR Signature Navy",
+      name: "Nocturnal Signature Navy",
       price: 112.48,
-      image1: "https://i.pinimg.com/736x/92/06/56/920656e03f09691d871e149b5dad8f7f.jpg",
-      image2: "https://i.pinimg.com/736x/94/d3/14/94d31436dfc73fcf93058089f69ffd96.jpg",
+      image1: "./Nocturnal front.png",
+      image2: "./Nocturnal backside.png",
     },
     {
       id: 4,
       name: "APR Limited Edition",
       price: 169.56,
-      image1: "https://i.pinimg.com/736x/92/06/56/920656e03f09691d871e149b5dad8f7f.jpg",
-      image2: "https://i.pinimg.com/736x/94/d3/14/94d31436dfc73fcf93058089f69ffd96.jpg",
+      image1: "./APR SKULL.png",
+      image2: "./APR HOODIE BACKSIDE.png",
     },
   ]
 
