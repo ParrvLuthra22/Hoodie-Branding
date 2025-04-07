@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 
 const images = [
   "./busride.gif",
+  // "https://media.giphy.com/media/PrTCHhXyn6ZtNF5nly/giphy.gif?cid=82a1493b46arwd1d1uin7sek289d3zazpwgc4jjvcu29uy0j&ep=v1_gifs_trending&rid=giphy.gif&ct=g",
   "./North face gif.gif",
 ]
 
