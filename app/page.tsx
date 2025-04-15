@@ -7,7 +7,7 @@ export default function Home() {
       id: 1,
       name: "GHP Classic Black",
       price: 96.87,
-      image1: "./Glory-honor-pain-front.png",
+      image1: "./glory-honor-pain-front.png",
       image2: "./Glory-honor-pain.png",
     },
     {
